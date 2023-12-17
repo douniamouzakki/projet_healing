@@ -23,4 +23,11 @@ class Docteur:
         self.cabinet = []
 
     
+def main ():
+
+    marcus = Patient("Marcus","mal indenté",100,"vide","malade")
+    optimus = Patient("Optimus","unsave",200,"vide","malade")
+    sangoku = Patient("Sangoku","404",80,"vide","malade")
+    darth = Patient("DarthVader","azmatique",110,"vide","malade")
+    semicolon = Patient("Semicolon","syntaxError",60,"vide","malade")
         
