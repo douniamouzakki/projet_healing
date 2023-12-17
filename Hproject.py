@@ -6,4 +6,12 @@ class Patient:
         self.poche = poche
         self.etat = etat
         self.lieu = "Salle d'attente"
-        
+
+def rendre_endroit (self,lieu):
+    pass
+
+def prendre_medicament (self):
+    pass
+
+def payer (self,prix):
+    pass
